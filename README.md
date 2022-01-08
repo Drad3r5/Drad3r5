@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Drad3r5
-- 👀 I’m interested in Python and Game Development
-- 🌱 I’m currently learning Python Programming and Game Development
-- 💞️ I’m looking to collaborate on Create the best game on Unity
+- 👀 I’m interested in Web Developmwnt
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Front End Web Development
 - 📫 Anyone who is interested to Collaborate with me
 - You can mail me on nathanielramos730@gmail.com
 
