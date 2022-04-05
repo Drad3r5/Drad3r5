@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Drad3r5
-- 👀 I’m interested in Python, Lisp and Nim
-- 🌱 I’m currently learning Lisp and Nim
-- 💞️ I’m looking to collaborate on Lisp and Nim Development
+- 👀 I’m interested in Python, Nim, C++, C
+- 🌱 I’m currently learning C++ and Python
+<!-- 💞️ I’m looking to collaborate on Lisp and Nim Development
 - 📫 Anyone who is interested to Collaborate with me
 - You can mail me on ramosnathaniel96@gmail.com
 
